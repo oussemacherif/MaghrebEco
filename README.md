@@ -2,7 +2,7 @@
 
 ### Green. Smart. United. – The Arab Maghreb’s Path to Sustainability.
 
-![Maghreb Eco Cover Photo](/assets/images/maghrebEcoCover.jpeg)
+![Maghreb Eco Cover Photo]()
 
 ## 📌 Overview
 **Maghreb Eco** is a mobile application powered by **Artificial Intelligence** that brings together innovation, ecology, and community across the Arab Maghreb. It’s designed to inspire environmental awareness, connect eco-enthusiasts, and empower individuals to take real action for a sustainable future.
